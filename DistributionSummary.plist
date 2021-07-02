@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DKU2022.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F69CDBF396812DBAD2A0AB70A8CE05D979569A8B</string>
+				<key>dateExpires</key>
+				<string>2022/07/01</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F69CDBF396812DBAD2A0AB70A8CE05D979569A8B</string>
+						<key>dateExpires</key>
+						<string>2022/07/01</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Charts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>VC4VVNW7TS</string>
+						<key>name</key>
+						<string>ayeon oh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F69CDBF396812DBAD2A0AB70A8CE05D979569A8B</string>
+						<key>dateExpires</key>
+						<string>2022/07/01</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>NHRangeSlider.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>VC4VVNW7TS</string>
+						<key>name</key>
+						<string>ayeon oh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F69CDBF396812DBAD2A0AB70A8CE05D979569A8B</string>
+						<key>dateExpires</key>
+						<string>2022/07/01</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>TTOpenInAppActivity.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>VC4VVNW7TS</string>
+						<key>name</key>
+						<string>ayeon oh</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VC4VVNW7TS.kr.co.issoft.campusapp.susi.2022</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VC4VVNW7TS</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>VC4VVNW7TS.kr.co.issoft.campusapp.susi.2022</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DKU2022.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>dba5dbdd-eeff-4e09-b270-9704e2824611</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: kr.co.issoft.campusapp.susi.2022</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VC4VVNW7TS</string>
+				<key>name</key>
+				<string>ayeon oh</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
