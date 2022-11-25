@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/maindevInIssoft/dankook/raw/master/CampusApp.ipa</string>
+					<string>https://github.com/maindevInIssoft/dankook/raw/master/DKUJ2023.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.issoft.campusapp.jungsi.2022</string>
+				<string>kr.co.issoft.campusapp.jungsi.2023</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DKUJ2022</string>
+				<string>DKUJ2023</string>
 			</dict>
 		</dict>
 	</array>
