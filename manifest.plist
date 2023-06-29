@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/maindevInIssoft/dankook/raw/master/DKUS2023.ipa</string>
+					<string>https://github.com/maindevInIssoft/dankook/raw/master/DKUS2024.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.issoft.campusapp.susi.2023</string>
+				<string>kr.co.issoft.campusapp.susi.2024</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DKUS2023</string>
+				<string>DKUS2024</string>
 			</dict>
 		</dict>
 	</array>
